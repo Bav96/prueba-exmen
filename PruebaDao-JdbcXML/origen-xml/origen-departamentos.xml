@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><departamentos>
+	<departamento>
+		<numero>10</numero>
+		<nombre>CONTABILIDAD</nombre>
+		<localidad>SEVILLA</localidad>
+	</departamento>
+	<departamento>
+		<numero>20</numero>
+		<nombre>TRAZBILIDAD</nombre>
+		<localidad>Madrid</localidad>
+	</departamento>
+	<departamento>
+		<numero>30</numero>
+		<nombre>VENTAS</nombre>
+		<localidad>BARCELONA</localidad>
+	</departamento>
+	<departamento>
+		<numero>40</numero>
+		<nombre>PRODUCCIÓN</nombre>
+		<localidad>BILBAO</localidad>
+	</departamento>
+	<departamento>
+		<numero>70</numero>
+		<nombre>VOLATILES</nombre>
+		<localidad>SANTANDER</localidad>
+	</departamento>
+	<departamento>
+		<numero>80</numero>
+		<nombre>VISTILLA</nombre>
+		<localidad>SANTANDER</localidad>
+	</departamento>
+	
+</departamentos>
